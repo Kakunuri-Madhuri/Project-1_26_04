@@ -1,0 +1,12 @@
+com\medimention\Utilities\DataProviders.class
+com\medimention\testCases\TC_001_Registration.class
+com\medimention\Utilities\ReportingManager.class
+com\medimention\PageObject\FrontPage.class
+com\medimention\testCases\BaseClass.class
+com\medimention\PageObject\RegisterPage.class
+com\medimention\PageObject\AccountPage.class
+com\medimention\PageObject\BasePage.class
+com\medimention\PageObject\HomePage.class
+com\medimention\Utilities\ExcelUtility.class
+com\medimention\testCases\TC_001_Register_DDT.class
+com\medimention\testCases\TC001_sub_for_register.class
